@@ -6,4 +6,4 @@ I just added the ability to change the note creation location by day. There migh
 Maybe i will update it. If i will need it. 
 
 
-Just copy calendar folder to {OBSIDIAN VAULD}/.obsidian/plugins and restart Obsidian. New setting will be in calendar plugin settings
+Just copy calendar folder to {OBSIDIAN VAULT}/.obsidian/plugins and restart Obsidian. New setting will be in calendar plugin settings
